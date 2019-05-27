@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060294732768",
+    "firebase_url": "https://mymusicplayerplus.firebaseio.com",
+    "project_id": "mymusicplayerplus",
+    "storage_bucket": "mymusicplayerplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060294732768:android:b6b6bd5570bdc298",
+        "android_client_info": {
+          "package_name": "com.blackishdeveloper.my_music_player_plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060294732768-4vdjf49h2cefcekeh3nn6sa49hlsdt20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHgQqmxQ33SZbEzapiXhHAeb8mPxCFcyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060294732768-4vdjf49h2cefcekeh3nn6sa49hlsdt20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

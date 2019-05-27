@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1060294732768-r8djp31vsbscmlp4q58osdfmno80cqot.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1060294732768-r8djp31vsbscmlp4q58osdfmno80cqot</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCrnjMuE8XGTpB1ll4AueFFjxnVF_U4JKI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1060294732768</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.blackishdeveloper.mymusicplayerplus</string>
+	<key>PROJECT_ID</key>
+	<string>mymusicplayerplus</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mymusicplayerplus.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1060294732768:ios:f1d936cea8ad5d4b</string>
+	<key>DATABASE_URL</key>
+	<string>https://mymusicplayerplus.firebaseio.com</string>
+</dict>
+</plist>
