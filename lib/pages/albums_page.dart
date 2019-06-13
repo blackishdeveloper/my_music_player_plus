@@ -6,7 +6,6 @@ import 'package:my_music_player_plus/pages/current_album_page.dart';
 import 'package:my_music_player_plus/widgets/record_widget.dart';
 import 'package:flutter/material.dart';
 
-
 class AlbumsPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
