@@ -19,8 +19,8 @@ import android.support.v4.content.ContextCompat;
 import android.util.Log;
 
 import com.google.gson.Gson;
-import com.npkompleet.beatz.models.Album;
-import com.npkompleet.beatz.models.AudioMedia;
+import my_music_player_plus.models.Album;
+import my_music_player_plus.models.AudioMedia;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -35,7 +35,7 @@ import io.flutter.plugin.common.MethodChannel.Result;
 import io.flutter.plugins.GeneratedPluginRegistrant;
 
 public class MainActivity extends FlutterActivity implements LoaderManager.LoaderCallbacks<Cursor>{
-    private static final String CHANNEL_NAME = "com.npkompleet.beatz";
+    private static final String CHANNEL_NAME = "my_music_player_plus";
     private static final String FETCH_ALBUMS_METHOD = "fetchAlbums";
     private static final String FETCH_SONGS_FROM_ALBUM_METHOD = "fetchSongsFromAlbum";
     private static final String SEEK_METHOD = "seek";
