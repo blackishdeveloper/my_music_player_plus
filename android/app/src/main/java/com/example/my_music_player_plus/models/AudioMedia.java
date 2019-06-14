@@ -1,4 +1,4 @@
-package com.example.my_music_player_plus;
+package com.example.my_music_player_plus.models;
 
 public class AudioMedia {
     private int id;

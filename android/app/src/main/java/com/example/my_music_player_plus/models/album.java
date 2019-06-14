@@ -1,15 +1,15 @@
-package com.example.my_music_player_plus;
+package com.example.my_music_player_plus.models;
 
-public class Album {
+public class album {
     private long id;
     private String album;
     private String artist;
     private String albumArt="";
     private int numOfSongs;
 
-    public Album(){}
+    public album(){}
 
-    public Album(int id, String album, String artist, String albumArt, int numOfSongs){
+    public album(int id, String album, String artist, String albumArt, int numOfSongs){
         this.id = id;
         this.album = album;
         this.artist = artist;
