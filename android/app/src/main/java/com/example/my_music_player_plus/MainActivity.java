@@ -14,8 +14,7 @@ import android.os.Build;
 import android.os.Bundle;
 import android.provider.MediaStore.Audio.Media;
 import android.provider.MediaStore.Audio.Albums;
-import android.support.v4.app.ActivityCompat;
-import android.support.v4.content.ContextCompat;
+
 import android.util.Log;
 
 import com.google.gson.Gson;
